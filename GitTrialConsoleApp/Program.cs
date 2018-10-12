@@ -10,6 +10,7 @@ namespace GitTrialConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("New text to test!");
         }
     }
 }
