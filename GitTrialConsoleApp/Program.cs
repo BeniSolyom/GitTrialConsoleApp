@@ -11,6 +11,7 @@ namespace GitTrialConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("New text to test!");
+            Console.WriteLine("Commit test");
         }
     }
 }
