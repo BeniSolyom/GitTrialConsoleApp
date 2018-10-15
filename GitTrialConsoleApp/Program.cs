@@ -14,6 +14,10 @@ namespace GitTrialConsoleApp
             Console.WriteLine("Commit test");
             Console.WriteLine("Test for pull!");
             Console.WriteLine("Test for pull number 2!");
+
+            Console.WriteLine("Valamik");
+
+            Console.WriteLine("KapaKasa");
         }
     }
 }
