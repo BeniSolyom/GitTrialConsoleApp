@@ -32,5 +32,13 @@ namespace GitTrialConsoleApp
         {
             Console.WriteLine("SargaBarack");
         }
-    }
+
+        public void TestMethod3()
+        {
+            Console.WriteLine("Testszöveg3");
+            Console.WriteLine("Akarmi");
+            Console.WriteLine("jajaj");
+        }
+    
+}
 }
