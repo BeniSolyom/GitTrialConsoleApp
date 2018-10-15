@@ -19,5 +19,11 @@ namespace GitTrialConsoleApp
 
             Console.WriteLine("Akármi");
         }
+
+
+        public void TestMethod()
+        {
+            Console.WriteLine("Kiir valamit");
+        }
     }
 }
