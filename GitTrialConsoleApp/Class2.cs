@@ -18,6 +18,19 @@ namespace GitTrialConsoleApp
             Console.WriteLine("Almakása");
 
             Console.WriteLine("Akármi");
+
+            Console.WriteLine("Lakodalom");
+        }
+
+
+        public void TestMethod()
+        {
+            Console.WriteLine("Kiir valamit");
+        }
+
+        public void TestMethod2()
+        {
+            Console.WriteLine("SargaBarack");
         }
     }
 }
