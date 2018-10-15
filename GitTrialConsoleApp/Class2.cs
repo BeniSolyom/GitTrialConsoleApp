@@ -38,6 +38,8 @@ namespace GitTrialConsoleApp
             Console.WriteLine("Testszöveg3");
             Console.WriteLine("Akarmi");
             Console.WriteLine("jajaj");
+
+            Console.WriteLine("asfasf");
         }
     
 }
