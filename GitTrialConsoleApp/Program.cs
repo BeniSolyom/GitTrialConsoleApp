@@ -20,6 +20,7 @@ namespace GitTrialConsoleApp
             Console.WriteLine("KapaKasa");
 
             Console.WriteLine("DragonThorne");
+            Console.WriteLine("EgyetKettotHarmatNegyet");
         }
     }
 }
