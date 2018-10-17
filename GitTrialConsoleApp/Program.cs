@@ -21,6 +21,7 @@ namespace GitTrialConsoleApp
 
             Console.WriteLine("DragonThorne");
             Console.WriteLine("EgyetKettotHarmatNegyet");
+            Console.WriteLine("Master");
         }
         public static void EzEgyTestMetodus()
         {
