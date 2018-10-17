@@ -25,8 +25,8 @@ namespace GitTrialConsoleApp
         }
         public static void EzEgyTestMetodus()
         {
-            string text = "";
-            int number = 0;
+            string text = "proba";
+            int number = 1;
         }
     }
 }
