@@ -41,6 +41,12 @@ namespace GitTrialConsoleApp
 
             Console.WriteLine("asfasf");
         }
+
+
+        public int SomeNewFunction(int d)
+        {
+            return d % 2;
+        }
     
 }
 }
