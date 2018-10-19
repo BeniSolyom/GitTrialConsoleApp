@@ -20,6 +20,13 @@ namespace GitTrialConsoleApp
             Console.WriteLine("KapaKasa");
 
             Console.WriteLine("DragonThorne");
+            Console.WriteLine("EgyetKettotHarmatNegyet");
+            Console.WriteLine("Master");
+        }
+        public static void EzEgyTestMetodus()
+        {
+            string text = "proba";
+            int number = 1;
         }
     }
 }
