@@ -22,7 +22,6 @@ namespace GitTrialConsoleApp
             Console.WriteLine("Lakodalom");
 
             a = 5;
-            b = "cat";
         }
 
 
