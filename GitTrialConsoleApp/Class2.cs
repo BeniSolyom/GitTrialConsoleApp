@@ -20,6 +20,8 @@ namespace GitTrialConsoleApp
             Console.WriteLine("Akármi");
 
             Console.WriteLine("Lakodalom");
+
+            a = 5;
         }
 
 
